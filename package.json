@@ -4,11 +4,14 @@
   "description": "A tool to semanticize urls, turning each /fragment/ into an object that defines said fragment, as the user sees fit.",
   "version": "0.0.0",
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "git://github.com/jasonkuhrt/semantic_url.git"
   },
-  "engines": {
+  "private": true,
+  engines": {
     "node": "~v0.4.7"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "main": "main.coffee"
 }
