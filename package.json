@@ -1,0 +1,14 @@
+{
+  "author": "Jason Kuhrt <jasonkuhrt@me.com> (jasonkuhrt.com)",
+  "name": "semantic_url",
+  "description": "A tool to semanticize urls, turning each /fragment/ into an object that defines said fragment, as the user sees fit.",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~v0.4.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
