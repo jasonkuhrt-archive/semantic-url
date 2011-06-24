@@ -8,9 +8,6 @@
     "url": "git://github.com/jasonkuhrt/semantic_url.git"
   },
   "private": true,
-  engines": {
-    "node": "~v0.4.7"
-  },
   "dependencies": {"underscore":">=1.1.6"},
   "devDependencies": {},
   "main": "main.coffee"
