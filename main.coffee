@@ -1,4 +1,4 @@
-_ = require './node_modules/underscore'
+_ = require 'underscore'
 utils = require './utils'
 
 classParsers =
